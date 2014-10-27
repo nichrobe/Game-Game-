@@ -5,8 +5,8 @@ Game(Game) is an implementation of ultimate Tic Tac Toe. The purpose of the proj
 
 Rules:
   <br>1) Each turn you mark one of the smaller squares (the inner-most board).
-  2) When you get three in a row on the smallest board, you've won that board.
-  3) To win the game, you need to win three smaller boards in a row.
-  4) The position that your opponent picks on the inner-most board, is the position that you must to on the outer-most board, on      your turn.
-  5) If your opponent sends you to a square that has already been won, you may choose any square to play your next move.
-  6) The player who goes first may choose any outer-board square to start the game.
+  <br>2) When you get three in a row on the smallest board, you've won that board.
+  <br>3) To win the game, you need to win three smaller boards in a row.
+  <br>4) The position that your opponent picks on the inner-most board, is the position that you must to on the outer-most               board, on your turn.
+  <br>5) If your opponent sends you to a square that has already been won, you may choose any square to play your next move.
+  <br>6) The player who goes first may choose any outer-board square to start the game.
