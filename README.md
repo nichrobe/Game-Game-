@@ -7,6 +7,6 @@ Rules:
   <br>1) Each turn you mark one of the smaller squares (the inner-most board).
   <br>2) When you get three in a row on the smallest board, you've won that board.
   <br>3) To win the game, you need to win three smaller boards in a row.
-  <br>4) The position that your opponent picks on the inner-most board, is the position that you must to on the outer-most               board, on your turn.
+  <br>4) The position that your opponent picks on the inner-most board, is the position that you must go to on the outer-most            board, on your turn.
   <br>5) If your opponent sends you to a square that has already been won, you may choose any square to play your next move.
   <br>6) The player who goes first may choose any outer-board square to start the game.
